@@ -1,4 +1,4 @@
-# Welcome to Java Marathon
+# Welcome to Practical Course
 ## JOM. Classes. Encapsulation. Exceptions
 
 You can start by cloning the repository to your computer using the following command:
