@@ -8,7 +8,7 @@ class Circle {
 	}
 
 	public void draw() {
-		// Draw Square with default color and radius
+		// Draw Circle with default color and radius
 	}
 	//your code
 }
