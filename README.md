@@ -1,7 +1,7 @@
 # JOM Classes. Encapsulation. Exceptions
 ## Task1
 
-Suppose we have the next class:
+Suppose we have the following class:
 
 ![image](https://user-images.githubusercontent.com/61456363/168443353-561613d4-8f4e-4fb8-9988-4becf10007e6.png)
 
