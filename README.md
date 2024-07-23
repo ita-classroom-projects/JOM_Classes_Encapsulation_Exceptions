@@ -15,3 +15,9 @@ Create classes **ColorException** and **TypeException** as derived from **Except
 
 The constructor of **Plant** should throw a corresponding exception whenever an inappropriate parameter is passed.
 
+The message for the TypeException should be built like this:
+"Invalid value %PASSED_TYPE% for field type"
+
+The message for the ColorException it should follow this pattern:
+"Invalid value %PASSED_COLOR% for field color"
+
