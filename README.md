@@ -2,8 +2,7 @@
 ## Task1
 
 Suppose we have the following class:
-
-![image](https://user-images.githubusercontent.com/61456363/168443353-561613d4-8f4e-4fb8-9988-4becf10007e6.png)
+![image](https://github.com/user-attachments/assets/e57611ef-f749-42b8-9d40-f986f368fabf)
 
 Create a new version of the **Circle** class where the **draw** method will be overloaded four times:
 
