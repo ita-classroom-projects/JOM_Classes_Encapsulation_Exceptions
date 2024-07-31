@@ -1,4 +1,4 @@
-# JOM Classes. Encapsulation. Exceptions
+# Classes. Encapsulation. Exceptions
 ## Task1
 
 Suppose we have the following class:
