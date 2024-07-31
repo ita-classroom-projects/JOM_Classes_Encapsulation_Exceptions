@@ -1,4 +1,4 @@
-# JOM. Classes. Encapsulation. Exceptions
+# Classes. Encapsulation. Exceptions
 ## Task 3
 
 Create a **Product** class with fields **name** of type **String** and **price** of type **double**.
@@ -12,6 +12,9 @@ The **Product** class must meet the following principles:
 In the **Product** class write **count() static** method that returns ***count of created objects*** of **Product** type.
 
 For example, next fragment of code:
+
+![image](https://github.com/user-attachments/assets/200e0e02-84b9-492c-b7dc-4ce26c5dbf8e)
+
 
 ![image](https://user-images.githubusercontent.com/61456363/168443668-27c85349-e90b-41b0-952c-64de75c97042.png)
 
