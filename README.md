@@ -1,4 +1,4 @@
-# JOM. Classes. Encapsulation. Exceptions
+# Classes. Encapsulation. Exceptions
 ## Task 7
 
 Please, create a class for the exception (automatically enforced by the Handle or Declare Rule) that is used in the code below so that it will compile without errors:
