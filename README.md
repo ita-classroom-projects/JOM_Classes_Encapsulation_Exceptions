@@ -1,4 +1,4 @@
-# JOM. Classes. Encapsulation. Exceptions
+# Classes. Encapsulation. Exceptions
 ## Task 4
 
 Create a method for calculating an area of a rectangle: **int squareRectangle(int a, int b)**
