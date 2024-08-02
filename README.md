@@ -1,4 +1,4 @@
-#Classes. Encapsulation. Exceptions
+# Classes. Encapsulation. Exceptions
 ## Task 6
 
 Suppose, we have the **Plant** class from the previous task, which includes **private** fields **String name**, **Color color** and **Type type**, and constructor with three **String** parameters where these fields are initialized. 
