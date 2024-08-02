@@ -12,7 +12,7 @@ Create a class **Plant**, which includes:
 
 **Type** contains **RARE** and **ORDINARY** entries.
 
-Override the method **toString( )** for **Plant** class which returns result formatted like following: ***{type: Rare, color: Red, name: MyPlant}***
+Override the method **toString( )** for **Plant** class which returns result formatted like following: ***{type: RARE, color: RED, name: MyPlant}***
 
 Create classes **ColorException** and **TypeException** as derived from **Exception**. Both classes should have a constructor with one **String** parameter and pass this parameter to the base class.
 
